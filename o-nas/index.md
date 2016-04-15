@@ -1,4 +1,9 @@
 ---
+id: o-nas
+inMenu: 4
+link:
+  name: "O nas"
+  sub: "Czym się zajmujemy"
 ---
 
 Jesteśmy zespołem ludzi mających duże doświadczenie w tworzeniu dużych, skalowalnych aplikacji internetowych.

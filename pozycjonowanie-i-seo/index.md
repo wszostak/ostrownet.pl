@@ -1,5 +1,9 @@
 ---
-
+id: pozycjonowanie-i-seo
+inMenu: 2
+link:
+  name: "Pozycjonowanie"
+  sub: " i SEO" 
 ---
 
 SEO (Search Engine Optimization) - czyli optymalizacja pod kątem wyszukiwarek internetowych - jest wiedzą pozwalającą w efektywny sposób wypromować stronę w taki sposób aby można ją było łatwo wyszukać wśród wielu stron i serwisów webowych.

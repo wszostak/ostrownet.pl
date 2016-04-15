@@ -1,4 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Condensed&subset=latin-ext,latin);
 html, body {
     margin: 0;
     padding: 0;
@@ -10,6 +9,17 @@ html, body {
 }
 html * {
   font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.headHeader {
+    font-size: 1em;
+    margin: 2em 0;
+}
+
+.headHeader a,
+.headHeader a:visited {
+    text-decoration: none;
+    color: #333;
 }
 
 a:hover {
@@ -146,7 +156,9 @@ footer {
     border-right: 1px #696 solid;
 }
 
-.menuH a:hover, .menuH a:focus {
+.menuH a:hover,
+.menuH a:focus,
+.menuH .active a {
    background-color: #dd3;
    color: #333; 
    text-shadow: 1px 1px 0 #999;
@@ -197,6 +209,10 @@ footer {
 
 .fRight {
     float: right;
+}
+
+.fCenter {
+    text-align: center;
 }
 
 .logo {

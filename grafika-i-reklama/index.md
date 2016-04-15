@@ -1,5 +1,9 @@
 ---
-
+id: grafika-i-reklama
+inMenu: 3
+link:
+  name: "Grafika"
+  sub: "i reklama" 
 ---
 
 Konkurencja na rynku zmusza firmy do efektywnego reklamowania swoich towarów i usług. Nie wystarczy wpis w książce telefonicznej czy szyld. Obecnie, żeby zaistnieć, trzeba korzystać z najnowszych osiągnięć techniki.

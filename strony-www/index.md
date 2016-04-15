@@ -1,5 +1,9 @@
 ---
-
+id: strony-www
+inMenu: 1
+link:
+  name: "Strony WWW"
+  sub: "tworzenie" 
 ---
 
 W dzisiejszych czasach nawet najmniejsza firma powinna mieć **stronę internetową**. **Profesjonalnie wykonana strona** jest **wizytówką firmy**, pełni rolę informacyjną oraz jest wykorzystywana jako **reklama**.
